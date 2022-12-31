@@ -8,20 +8,20 @@ this is a simple nodejs/expressjs api with a Redis-powered caching
 
 ## Installation
 
-this app requires [Node.js](https://nodejs.org/) v10+ to run.
+This code requires [Node.js](https://nodejs.org/) v10+ to run.
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies and devDependencies.
 
 ```sh
 npm install
 ```
 
-> Note: you need also to have `Redis` installed  .
+> Note: you need also to have `Redis` installed ,
 > follow the official document : [how to install redis?](https://redis.io/docs/getting-started/installation/) 
 
 ## Run
 
-run the code using :
+run the code :
 ```sh
 npm start
 ```
