@@ -1,0 +1,42 @@
+[
+    {
+      "name": "john",
+      "age": 30,
+      "address": {
+        "street": "123 Main",
+        "city": "New York",
+        "state": "NY",
+        "zip": 10001
+      }
+    },
+    {
+      "name": "jane",
+      "age": 25,
+      "address": {
+        "street": "456 Main",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": 15000
+      }
+    },
+    {
+        "name": "ali",
+        "age": 30,
+        "address": {
+          "street": "158 Main",
+          "city": "Miami",
+          "state": "FL",
+          "zip": 15000
+        }
+      },
+    {
+      "name": "bob",
+      "age": 50,
+      "address": {
+        "street": "789 Main",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": 78000
+      }
+    }
+]
