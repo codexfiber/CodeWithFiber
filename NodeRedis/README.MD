@@ -16,7 +16,7 @@ Install the dependencies and devDependencies and start the server.
 npm install
 ```
 
-> Note: you need also to have `${Redis}` installed  .
+> Note: you need also to have `Redis` installed  .
 > follow the official document : [how to install redis?](https://redis.io/docs/getting-started/installation/) 
 
 ## Run
